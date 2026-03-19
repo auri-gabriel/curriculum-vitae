@@ -1,0 +1,149 @@
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+% Font options
+%\usepackage[sfdefault]{roboto}  % Sans-serif font
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{\Large\bfseries\scshape\raggedright}{}{0em}{}[\titlerule]
+
+% Ensure PDF is machine readable
+\pdfgentounicode=1
+
+% Custom commands
+\newcommand{\resumeItem}[1]{\item\small{#1}}
+\newcommand{\resumeSubheading}[4]{
+\vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{#3} & \textit{#4} \\
+  \end{tabular*}\vspace{-7pt}
+}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingList}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\begin{document}
+
+\begin{center}
+  \textbf{\Huge Auri Gabriel Castro de Melo} \\
+  \small Alegrete, RS, Brasil $|$ 
+  \href{tel:+55 (55) 9 9625-4763}{+55 (55) 9 9625-4763} $|$ 
+  \href{mailto:ririmello.a@gmail.com}{ririmello.a@gmail.com} $|$ 
+  \href{https://linkedin.com/in/auri-gabriel}{linkedin.com/in/auri-gabriel} $|$ 
+  \href{https://github.com/auri-gabriel}{github.com/auri-gabriel}
+\end{center}
+
+\section*{Resumo}
+Engenheiro de Software com experiência em desenvolvimento de E-commerces. Atua como Programador I na Compass.uol com foco em Salesforce Commerce Cloud. Interessa-se por desenvolvimento web, tanto front-end como back-end, ensino de computação e tecnologias educacionais.
+
+\section{Habilidades Técnicas}
+\resumeSubHeadingList
+  \resumeItem{\textbf{Linguagens}: JavaScript, TypeScript, Java, PHP, Dart}
+  \resumeItem{\textbf{Frameworks}: React, Node.js, Laravel, Flutter, SFRA, Bootstrap}
+  \resumeItem{\textbf{Ferramentas}: Git, GitHub, Figma, Docker, Swagger, VS Code, NeoVim}
+  \resumeItem{\textbf{Outros}: Salesforce Commerce Cloud B2C, GraphQL, REST, Metodologias ágeis}
+\resumeSubHeadingListEnd
+
+\section{Experiência}
+\resumeSubHeadingList
+    \resumeSubheading
+        {Compass.uol}{Jul 2025 -- Presente}
+        {Programador I}{Remoto}
+        \resumeSubHeadingList
+        \resumeItem{\textbullet\ Entrega end-to-end de landing pages de parceria em Salesforce Commerce Cloud B2C, do desenvolvimento ao deploy em produção}
+        \resumeItem{\textbullet\ Desenvolvimento de componentes reutilizáveis no Page Designer, acelerando entregas e reduzindo dependência técnica do time de marketing}
+        \resumeItem{\textbullet\ Otimizações de SEO técnico (HTML, JSON-LD, structured data), melhorando indexação e qualidade das páginas}
+      \resumeSubHeadingListEnd
+
+\resumeSubheading
+    {Compass.uol}{Mai 2024 -- Jul 2025}
+    {Programador Trainee}{Remoto}
+      \resumeSubHeadingList
+      \resumeItem{\textbullet\ Participação em migração de larga escala de VTEX para Salesforce Commerce Cloud B2C}
+      \resumeItem{\textbullet\ Implementação de integrações via API para validação de cartões}
+      \resumeItem{\textbullet\ Desenvolvimento da página de boletos com geração automática de PDF via API}
+      \resumeSubHeadingListEnd
+
+  \resumeSubheading
+      {Compass.uol}{Mai 2023 -- Out 2023}
+      {Desenvolvedor Front-End (Estágio)}{Remoto}
+        \resumeSubHeadingList
+        \resumeItem{\textbullet\ Desenvolvimento de aplicações web com React, Vite e Styled Components}
+        \resumeItem{\textbullet\ Criação de projetos completos como "Folio Agency" e "FitMe"}
+        \resumeItem{\textbullet\ Experiência prática com AWS Cloud e desenvolvimento em equipe}
+        \resumeSubHeadingListEnd
+\resumeSubHeadingListEnd
+
+
+\section{Educação}
+\resumeSubHeadingList
+  \resumeSubheading
+      {Universidade Federal do Pampa (UNIPAMPA)}{2019 -- 2026}
+      {Bacharelado em Engenharia de Software}{Alegrete, RS}
+\resumeSubHeadingListEnd
+
+\section{Projetos}
+\resumeSubHeadingList
+  \resumeSubheading
+      {FS.Edu}{2024 -- Presente}
+      {Ferramenta para engenharia de software em domínio educacional}{JavaScript, React, Vite}
+  \resumeSubheading
+      {Imovato}{2021 -- Presente}
+      {Aplicação Web de aluguel e venda de imóveis.}{Java, Spring Boot, MySQL, Netflix Eureka, RabbitMQ}
+  \resumeSubheading
+      {Thoth 2.0}{2023 -- 2024}
+      {Ferramenta Web para revisões sistemáticas.}{PHP, Laravel, MySQL}
+\resumeSubHeadingListEnd
+
+\section{Certificações}
+\resumeSubHeadingList
+  \resumeItem{\textbullet\ EF SET English Certificate 82/100 (C2 Proficient)}
+\resumeSubHeadingListEnd
+
+\section{Idiomas}
+\resumeSubHeadingList
+  \resumeItem{\textbullet\ Português (nativo)}
+  \resumeItem{\textbullet\ Inglês (avançado)}
+\resumeSubHeadingListEnd
+
+\section{Publicações}
+\resumeSubHeadingList
+  \resumeItem{\textbullet\ Melo, A., et al. "Uma Revisão Sistematizada sobre Design Participativo Integrado à Engenharia de Software em Domínio Educacional" (2024)}
+\resumeSubHeadingListEnd
+\section{Propriedade Intelectual}
+\resumeSubHeadingList
+  \resumeItem{\textbullet\ Imovato – Módulo Frontend Web, Registro de Programa de Computador (INPI, Processo BR512022001984-1)}
+  \resumeItem{\textbullet\ Imovato – Módulo Backend, Registro de Programa de Computador (INPI, Processo BR512022002529-9)}
+\resumeSubHeadingListEnd
+
+\end{document}
