@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.8)  9 JUN 2026 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.11.5)  14 NOV 2026 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **curriculo.tex
 (./curriculo.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+L3 programming layer <2026-03-20>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -21,7 +21,7 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen148
+\bibindent=\dimen150
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
@@ -38,12 +38,12 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box53
 \beforetitleunit=\skip52
 \aftertitleunit=\skip53
-\ttl@plus=\dimen149
-\ttl@minus=\dimen150
+\ttl@plus=\dimen151
+\ttl@minus=\dimen152
 \ttl@toksa=\toks17
-\titlewidth=\dimen151
-\titlewidthlast=\dimen152
-\titlewidthfirst=\dimen153
+\titlewidth=\dimen153
+\titlewidthlast=\dimen154
+\titlewidthfirst=\dimen155
 )
 (/usr/share/texlive/texmf-dist/tex/latex/marvosym/marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
@@ -73,14 +73,14 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitkv@toks@=\toks20
 \labelindent=\skip54
-\enit@outerparindent=\dimen154
+\enit@outerparindent=\dimen156
 \enit@toks=\toks21
 \enit@inbox=\box54
 \enit@count@id=\count283
 \enitdp@description=\count284
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+Package: hyperref 2026-04-24 v7.01q Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
@@ -137,12 +137,12 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen155
+\@linkdim=\dimen157
 \Hy@linkcounter=\count287
 \Hy@pagecounter=\count288
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2026-04-24 v7.01q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -152,25 +152,25 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 \Hy@SavedSpaceFactor=\count289
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2026-04-24 v7.01q Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4201.
-Package hyperref Info: Link nesting OFF on input line 4206.
-Package hyperref Info: Hyper index ON on input line 4209.
-Package hyperref Info: Plain pages OFF on input line 4216.
-Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4468.
+Package hyperref Info: Bookmarks ON on input line 4466.
 \c@Hy@tempcnt=\count290
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4807.
-\XeTeXLinkMargin=\dimen156
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen158
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -180,15 +180,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count291
-\Field@Width=\dimen157
-\Fld@charsize=\dimen158
-Package hyperref Info: Hyper figures OFF on input line 6084.
-Package hyperref Info: Link nesting OFF on input line 6089.
-Package hyperref Info: Hyper index ON on input line 6092.
-Package hyperref Info: backreferencing OFF on input line 6099.
-Package hyperref Info: Link coloring OFF on input line 6104.
-Package hyperref Info: Link coloring with OCG OFF on input line 6109.
-Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
 \Hy@abspage=\count292
 \c@Item=\count293
 \c@Hfootnote=\count294
@@ -196,7 +196,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6114.
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+File: hpdftex.def 2026-04-24 v7.01q Hyperref driver for pdfTeX
 \Fld@listcount=\count295
 \c@bookmark@seq@number=\count296
 
@@ -231,7 +231,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \@temptokenb=\toks23
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2026/01/26 v26.2 The multilingual framework for LuaLaTeX, pdfLaT
+Package: babel 2026/04/15 v26.6 The multilingual framework for LuaLaTeX, pdfLaT
 eX and XeLaTeX
 \babel@savecnt=\count297
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
@@ -248,8 +248,8 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?)
 on input line 2086.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
 on input line 2111.
-\U@D=\dimen159
-\l@unhyphenated=\language88
+\U@D=\dimen161
+\l@unhyphenated=\language89
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
@@ -277,24 +277,24 @@ LaTeX Warning: You have requested release `2026/06/01' of LaTeX,
                but only release `2025-11-01' is available.
 
 Package: array 2026/01/25 v2.7a Tabular extension package (FMi)
-\col@sep=\dimen160
+\col@sep=\dimen162
 \ar@mcellbox=\box55
-\extrarowheight=\dimen161
+\extrarowheight=\dimen163
 \NC@list=\toks24
 \extratabsurround=\skip70
 \backup@length=\skip71
 \ar@cellbox=\box56
 )
-\TX@col@width=\dimen162
-\TX@old@table=\dimen163
-\TX@old@col=\dimen164
-\TX@target=\dimen165
-\TX@delta=\dimen166
+\TX@col@width=\dimen164
+\TX@old@table=\dimen165
+\TX@old@col=\dimen166
+\TX@target=\dimen167
+\TX@delta=\dimen168
 \TX@cols=\count299
 \TX@ftn=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
 )
 (output/curriculo.aux)
@@ -322,13 +322,13 @@ LaTeX Font Info:    ... okay on input line 55.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count301
-\scratchdimen=\dimen167
+\scratchdimen=\dimen169
 \scratchbox=\box57
 \nofMPsegments=\count302
 \nofMParguments=\count303
 \everyMPshowfont=\toks26
 \MPscratchCnt=\count304
-\MPscratchDim=\dimen168
+\MPscratchDim=\dimen170
 \MPnumerator=\count305
 \makeMPintoPDFobject=\count306
 \everyMPtoPDFconversion=\toks27
@@ -373,7 +373,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [2] (output/curriculo.aux)
  ***********
 LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+L3 programming layer <2026-03-20>
  ***********
 
 
@@ -383,13 +383,13 @@ Package rerunfilecheck Info: File `curriculo.out' has not changed.
 (rerunfilecheck)             Checksum: CB2FCACAA95EBAB9493B26BF1BB37414;879.
  ) 
 Here is how much of TeX's memory you used:
- 10885 strings out of 467548
- 170801 string characters out of 5422841
- 622301 words of memory out of 6000000
- 39669 multiletter control sequences out of 15000+600000
+ 10922 strings out of 467363
+ 172481 string characters out of 5419001
+ 626928 words of memory out of 6000000
+ 39882 multiletter control sequences out of 15000+600000
  632285 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,287b,616s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,287b,614s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
@@ -398,7 +398,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/cm-super/sfrm0900.pfb>
-Output written on output/curriculo.pdf (2 pages, 123380 bytes).
+Output written on output/curriculo.pdf (2 pages, 122282 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
