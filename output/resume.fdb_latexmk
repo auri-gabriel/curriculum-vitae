@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1794698275.71504 "resume.tex" "output/resume.pdf" "resume" 1794698276.11811 0
+["pdflatex"] 1794698378.49505 "resume.tex" "output/resume.pdf" "resume" 1794698378.9193 0
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0900.tfm" 1136768653 1536 c4f439db76ef96a9c53bc437f35ffe20 ""
@@ -80,9 +80,9 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1784246400 43785 66587115382950aca692b5f6e3c2fb74 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1793895609 5572053 e518821a04c16d896352b86436457e46 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1793895217 3519838 f3c65fa1caafbcfcff30bb1fd0234554 ""
-  "output/resume.aux" 1794698276.06986 1155 3d605b4c2cb3d6fcfaefaba760c31010 "pdflatex"
-  "output/resume.out" 1794698276.06986 845 308c530c3c6134beaf31fa9bf4e831e5 "pdflatex"
-  "resume.tex" 1794698261.14089 5212 31234350979abf8c76d9dfe0d6b6452c ""
+  "output/resume.aux" 1794698378.87264 1155 3d605b4c2cb3d6fcfaefaba760c31010 "pdflatex"
+  "output/resume.out" 1794698378.87264 845 308c530c3c6134beaf31fa9bf4e831e5 "pdflatex"
+  "resume.tex" 1794698356.51569 5222 58b048949bdca8cba34cebe22b41b61b ""
   (generated)
   "output/resume.aux"
   "output/resume.log"
